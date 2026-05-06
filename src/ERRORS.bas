@@ -20,7 +20,7 @@ Option Explicit
 '   3000 - 3999   MATH
 '   4000 - 4099   COMBINATORICS
 '   5000 - 5999   reserved for future modules
-'   100000 - 100999 loose modules
+'   NA            loose modules
 '
 ' All codes are offsets to be added to vbObjectError.
 ' Use the ERR_* enum values directly; do not hardcode numbers.
