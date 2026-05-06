@@ -17,7 +17,7 @@ Centralized registry of custom error codes shared across the library. Each modul
 | 2000–2999 | TEXT |
 | 3000–3999 | MATH |
 | 4000–4099 | COMBINATORICS |
-| 100000–100999 | Portable modules |
+| NA | Portable modules |
 
 ---
 
