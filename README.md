@@ -188,4 +188,4 @@ arr = ARR_TO_2D(Array(10, 20, 30))
 
 ## License
 
-MIT License — Copyright (c) 2025 M. Roldán — see [LICENSE](LICENSE) for details.
+MIT License — Copyright (c) 2026 Martín Roldán — see [LICENSE](LICENSE) for details.
